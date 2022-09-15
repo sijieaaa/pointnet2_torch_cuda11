@@ -13,8 +13,8 @@ pytorch 1.5+
 CUDA 11.3/11.6
 python 3.6/3.7/3.8
 ubuntu 18.04/20.04
-g++ 9.4.0 gcc 9.4.0 cmake 3.23.0 (ubuntu 20.04)
 g++ 7.5.0 gcc 7.5.0 cmake 3.23.2 (ubuntu 18.04)
+g++ 9.4.0 gcc 9.4.0 cmake 3.23.0 (ubuntu 20.04)
 
 ```
 
