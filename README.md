@@ -6,7 +6,7 @@
 
 - We fix some bugs of the above old pointnet2, and create this new pointnet2. 
 
-- This pointnet2 works well in the following envs (not limit to these):
+- This pointnet2 works well in the following envs (include but not limit to these):
 
 ```
 pytorch 1.5+
