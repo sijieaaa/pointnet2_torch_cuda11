@@ -9,7 +9,7 @@
 - This pointnet2 works well in the following envs (include but not limit to these):
 
 ```
-pytorch 1.5+
+pytorch 1.5.0+
 CUDA 11.3/11.6
 python 3.6/3.7/3.8
 ubuntu 18.04/20.04
