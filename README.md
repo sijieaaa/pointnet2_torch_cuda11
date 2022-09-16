@@ -3,6 +3,7 @@
 - A new implementation for PointNet++, https://arxiv.org/abs/1706.02413
 
 - This is based on votenet/pointnet2/, https://github.com/facebookresearch/votenet/tree/main/pointnet2
+https://github.com/erikwijmans/Pointnet2_PyTorch/tree/master/pointnet2_ops_lib
 
 - We fix some bugs of the above old pointnet2, and create this new pointnet2. 
 
