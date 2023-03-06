@@ -14,10 +14,10 @@ _ext_sources = glob.glob("{}/src/*.cpp".format(_ext_src_root)) + glob.glob(
 _ext_headers = glob.glob("{}/include/*".format(_ext_src_root))
 
 setup(
-    name='pointnet2_torch_cuda11',
+    name='pointnet3',
     ext_modules=[
         CUDAExtension(
-            name='pointnet2._ext',
+            name='pointnet3._ext',
             sources=_ext_sources,
             extra_compile_args={
                 "cxx": ["-O2", "-I{}".format("{}/include".format(_ext_src_root))],
