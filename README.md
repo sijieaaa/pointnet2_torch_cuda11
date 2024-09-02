@@ -23,8 +23,8 @@ g++ 9.4.0 gcc 9.4.0 cmake 3.23.0 (ubuntu 20.04)
 nvcc --version
 ```
 ```
+>>> import torch
 >>> torch.version.cuda
-'11.8'
 ```
 
 
