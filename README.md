@@ -16,8 +16,17 @@ python 3.6/3.7/3.8
 ubuntu 18.04/20.04
 g++ 7.5.0 gcc 7.5.0 cmake 3.23.2 (ubuntu 18.04)
 g++ 9.4.0 gcc 9.4.0 cmake 3.23.0 (ubuntu 20.04)
-
 ```
+
+- You need to make sure PyTorch is installed correctly with the corresponding NVCC version.
+```
+nvcc --version
+```
+```
+>>> torch.version.cuda
+'11.8'
+```
+
 
 - Install:
 
